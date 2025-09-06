@@ -1,3 +1,10 @@
+[![Add to Cursor](https://fastmcp.me/badges/cursor_dark.svg)](https://fastmcp.me/MCP/Details/767/novita-ai-gpu-cloud)
+[![Add to VS Code](https://fastmcp.me/badges/vscode_dark.svg)](https://fastmcp.me/MCP/Details/767/novita-ai-gpu-cloud)
+[![Add to Claude](https://fastmcp.me/badges/claude_dark.svg)](https://fastmcp.me/MCP/Details/767/novita-ai-gpu-cloud)
+[![Add to ChatGPT](https://fastmcp.me/badges/chatgpt_dark.svg)](https://fastmcp.me/MCP/Details/767/novita-ai-gpu-cloud)
+[![Add to Codex](https://fastmcp.me/badges/codex_dark.svg)](https://fastmcp.me/MCP/Details/767/novita-ai-gpu-cloud)
+[![Add to Gemini](https://fastmcp.me/badges/gemini_dark.svg)](https://fastmcp.me/MCP/Details/767/novita-ai-gpu-cloud)
+
 # Novita MCP Server
 [![smithery badge](https://smithery.ai/badge/@novitalabs/novita-mcp-server)](https://smithery.ai/server/@novitalabs/novita-mcp-server)
 
